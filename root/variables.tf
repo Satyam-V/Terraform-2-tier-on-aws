@@ -14,5 +14,5 @@ variable pri_sub_5a_cidr {}
 variable pri_sub_6b_cidr {}
 variable db_username {}
 variable db_password {}
-variable certificate_domain_name {}
-variable additional_domain_name {}
+# variable certificate_domain_name {}
+# variable additional_domain_name {}
